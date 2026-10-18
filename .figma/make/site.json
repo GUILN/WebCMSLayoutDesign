@@ -1,0 +1,10 @@
+{
+  "description": "This web CMS allows users to manage content effortlessly with a user-friendly interface, featuring login capabilities and a dedicated menu for scrapes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
